@@ -1,3 +1,5 @@
+// 1940번
+
 #include <iostream>
 #include <vector>
 
